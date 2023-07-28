@@ -1,0 +1,23 @@
+button{
+  height: 40px;
+  width: 150px;
+  border: 1px solid darkcyan;
+  border-radius: 10px;
+  background-color: rgb(205, 218, 228)
+}
+button:hover{
+  color: white;
+  background-color: rgb(195, 217, 195);
+  border: 2px dotted gray;
+
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  margin-top: 50px;
+  height:auto;
+}
+h1{
+  color: goldenrod;
+  background-color: antiquewhite;
+}
